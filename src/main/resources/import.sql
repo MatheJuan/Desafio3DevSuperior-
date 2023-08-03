@@ -1,0 +1,11 @@
+INSERT INTO tb_client( name, cpf, income, BIRTH_DATE, children) VALUES ('João Silva', '111.222.333-44', 3500.00, '1985-07-1' , 2);
+INSERT INTO tb_client( name, cpf, income, BIRTH_DATE, children) VALUES ('João Silva', '111.222.333-44', 3500.00, '1985-07-15', 2);
+INSERT INTO tb_client( name, cpf, income, BIRTH_DATE, children) VALUES ('Maria Souza', '555.666.777-88', 5200.00, '1990-12-28', 0);
+INSERT INTO tb_client( name, cpf, income, BIRTH_DATE, children) VALUES ('Pedro Alves', '999.888.777-66', 4200.00, '1978-03-10', 1);
+INSERT INTO tb_client( name, cpf, income, BIRTH_DATE, children) VALUES ('Ana Pereira', '444.333.222-11', 2700.00, '1995-09-03', 3);
+INSERT INTO tb_client( name, cpf, income, BIRTH_DATE, children) VALUES ('Carlos Santos', '777.888.999-00', 6200.00, '1989-11-22', 2);
+INSERT INTO tb_client( name, cpf, income, BIRTH_DATE, children) VALUES ('Laura Lima', '666.555.444-33', 4800.00, '1982-06-18', 0);
+INSERT INTO tb_client( name, cpf, income, BIRTH_DATE, children) VALUES ('José Costa', '222.333.444-55', 3800.00, '1998-04-20', 1);
+INSERT INTO tb_client( name, cpf, income, BIRTH_DATE, children) VALUES ('Fernanda Ferreira', '888.777.666-55', 5200.00, '1987-08-12', 2);
+INSERT INTO tb_client( name, cpf, income, BIRTH_DATE, children) VALUES ('Luiz Oliveira', '333.444.555-66', 3200.00, '1991-02-25', 0);
+INSERT INTO tb_client( name, cpf, income, BIRTH_DATE, children) VALUES ('Mariana Martins', '666.777.888-99', 4100.00, '1980-05-30', 1);
